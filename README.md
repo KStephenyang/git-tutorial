@@ -1,3 +1,3 @@
 Git tutorial
-head ee
-fixA
+-head ee
+-fixA

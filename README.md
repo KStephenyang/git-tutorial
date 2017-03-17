@@ -1,3 +1,5 @@
 Git tutorial
--head ee
--fixA
+head ee
+- Master
+- DeveloperA
+- fixA
